@@ -1,0 +1,16 @@
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    font-weight: bold;
+    text-decoration-color: #ac4545;
+  }
+  
+  nav ul li {
+    margin-right: 20px;
+  }
+  a {
+    text-decoration: none; /*Así le quitamos el subrayado a los enlaces*/
+    color: #000; /*Así le quitamos el color azul a los enlaces*/
+  }
